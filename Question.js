@@ -87,3 +87,21 @@
 //  }
 // }
 // number(20);
+
+
+// //Question 5
+
+// function calculator (num1,num2,ope){
+//         if(ope=="+"){
+//             console.log("Sum IS", num1+num2)
+//         }else if(ope=="-"){
+//             console.log("sub Is", num1-num2)
+//         }else if(ope=="/"){
+//             console.log("div Is", num1/num2)
+//         }else if(ope=="*"){
+//             console.log("Multi Is",num1*num2)
+//         }else{
+//             console.log("intervalide Operator")
+//         }
+// }
+// calculator(5,8,"/");

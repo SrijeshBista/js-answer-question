@@ -105,3 +105,53 @@
 //         }
 // }
 // calculator(5,8,"/");
+
+
+
+// // Question 6
+
+// function oddeven (nums){
+//         let i =nums;
+//         while (i>=1){
+//             console.log(i);
+          
+//             if(i % 2 === 0){
+//                 console.log("Even Number");
+//             }else{
+//                 console.log("Odd Number");
+//             }
+//               i--
+//         }
+
+// }
+// oddeven(20);
+
+// // Question 7
+
+//     let num=12345;
+//   let count=0
+//     while(num>0){
+        
+//           num=Math.floor(num/10);
+//         //   count = count+1
+//         count++
+
+//     }
+//     console.log(count);
+
+
+
+
+// // Question 8
+// function divisible (inp){
+  
+//     if(inp % 3 === 0 && inp % 5 === 0){
+//         console.log("It Is divisible by 3 And 5")
+//     }
+//     else{
+//         console.log("It Is Not divisible by 3 And 5")
+//     }
+// }
+// divisible(15);
+
+
